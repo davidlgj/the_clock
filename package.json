@@ -1,0 +1,22 @@
+{
+  "name": "klockan",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "rpi-ws281x": "^1.0.33",
+    "tinycolor": "^0.0.1",
+    "tinygradient": "^1.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
